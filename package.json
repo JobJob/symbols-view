@@ -1,5 +1,5 @@
 {
-  "name": "symbols-view",
+  "name": "symbols-view-click",
   "version": "0.118.2",
   "main": "./lib/main",
   "description": "Jump to a function/method in the current editor with `cmd-r`.",
@@ -36,7 +36,7 @@
       "description": "Automatically visit selected file-symbols"
     }
   },
-  "repository": "https://github.com/atom/symbols-view",
+  "repository": "https://github.com/JobJob/symbols-view-click",
   "engines": {
     "atom": "*"
   },
