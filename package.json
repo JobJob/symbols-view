@@ -37,6 +37,13 @@
     }
   },
   "repository": "https://github.com/JobJob/symbols-view-click",
+  "providedServices": {
+    "hyperclick.provider": {
+      "versions": {
+        "0.0.0": "getHyperclickProvider"
+      }
+    }
+  },
   "engines": {
     "atom": "*"
   },
